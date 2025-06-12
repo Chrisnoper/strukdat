@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 db/data/*
 */db/data/*
 ../db/data/*
 #src/.env
 #*/src/.env
+=======
+.vscode
+pert7/db/data/*
+*/pert7/db/data/*
+>>>>>>> b169b6f (Initial commit)
